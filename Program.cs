@@ -9,6 +9,8 @@ namespace Demogithub
             Console.WriteLine("Hello World!");
             Console.WriteLine("Nhom 2 lam mai ko dc!");
             Console.WriteLine("Ahihi");
+            Console.WriteLine("Ahihi");
+            
         }
     }
 }
