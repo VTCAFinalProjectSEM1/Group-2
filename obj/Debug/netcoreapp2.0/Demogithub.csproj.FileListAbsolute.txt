@@ -1,0 +1,10 @@
+C:\Users\tong van phong\Desktop\Group-2\bin\Debug\netcoreapp2.0\Demogithub.deps.json
+C:\Users\tong van phong\Desktop\Group-2\bin\Debug\netcoreapp2.0\Demogithub.runtimeconfig.json
+C:\Users\tong van phong\Desktop\Group-2\bin\Debug\netcoreapp2.0\Demogithub.runtimeconfig.dev.json
+C:\Users\tong van phong\Desktop\Group-2\bin\Debug\netcoreapp2.0\Demogithub.dll
+C:\Users\tong van phong\Desktop\Group-2\bin\Debug\netcoreapp2.0\Demogithub.pdb
+C:\Users\tong van phong\Desktop\Group-2\obj\Debug\netcoreapp2.0\Demogithub.csproj.CoreCompileInputs.cache
+C:\Users\tong van phong\Desktop\Group-2\obj\Debug\netcoreapp2.0\Demogithub.AssemblyInfoInputs.cache
+C:\Users\tong van phong\Desktop\Group-2\obj\Debug\netcoreapp2.0\Demogithub.AssemblyInfo.cs
+C:\Users\tong van phong\Desktop\Group-2\obj\Debug\netcoreapp2.0\Demogithub.dll
+C:\Users\tong van phong\Desktop\Group-2\obj\Debug\netcoreapp2.0\Demogithub.pdb

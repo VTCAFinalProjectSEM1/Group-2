@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/valentino/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\tong van phong\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/valentino/Desktop/Demogithub/Demogithub.csproj",
+      "projectUniqueName": "C:\\Users\\tong van phong\\Desktop\\Group-2\\Demogithub.csproj",
       "projectName": "Demogithub",
-      "projectPath": "/Users/valentino/Desktop/Demogithub/Demogithub.csproj",
-      "packagesPath": "/Users/valentino/.nuget/packages/",
-      "outputPath": "/Users/valentino/Desktop/Demogithub/obj/",
+      "projectPath": "C:\\Users\\tong van phong\\Desktop\\Group-2\\Demogithub.csproj",
+      "packagesPath": "C:\\Users\\tong van phong\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tong van phong\\Desktop\\Group-2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/valentino/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\tong van phong\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
