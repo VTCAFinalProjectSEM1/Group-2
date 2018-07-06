@@ -15,3 +15,4 @@
 /Users/valentino/Desktop/Group-2/PL_Console/obj/Debug/netcoreapp2.0/PL_Console.csproj.CopyComplete
 /Users/valentino/Desktop/Group-2/PL_Console/obj/Debug/netcoreapp2.0/PL_Console.dll
 /Users/valentino/Desktop/Group-2/PL_Console/obj/Debug/netcoreapp2.0/PL_Console.pdb
+/Users/valentino/Desktop/Group-2/PL_Console/bin/Debug/netcoreapp2.0/ConnectionString.txt

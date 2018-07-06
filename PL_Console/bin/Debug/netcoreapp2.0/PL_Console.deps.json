@@ -9,6 +9,7 @@
       "PL_Console/1.0.0": {
         "dependencies": {
           "BL": "1.0.0",
+          "DAL": "1.0.0",
           "Persitence": "1.0.0"
         },
         "runtime": {

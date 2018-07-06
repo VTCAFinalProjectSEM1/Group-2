@@ -2143,6 +2143,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "BL >= 1.0.0",
+      "DAL >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "Persitence >= 1.0.0"
     ]
@@ -2177,6 +2178,9 @@
           "projectReferences": {
             "/Users/valentino/Desktop/Group-2/BL/BL.csproj": {
               "projectPath": "/Users/valentino/Desktop/Group-2/BL/BL.csproj"
+            },
+            "/Users/valentino/Desktop/Group-2/DAL/DAL.csproj": {
+              "projectPath": "/Users/valentino/Desktop/Group-2/DAL/DAL.csproj"
             },
             "/Users/valentino/Desktop/Group-2/Persitence/Persitence.csproj": {
               "projectPath": "/Users/valentino/Desktop/Group-2/Persitence/Persitence.csproj"

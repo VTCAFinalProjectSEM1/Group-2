@@ -11,3 +11,4 @@
 /Users/valentino/Desktop/Group-2/BL/obj/Debug/netstandard2.0/BL.csproj.CopyComplete
 /Users/valentino/Desktop/Group-2/BL/obj/Debug/netstandard2.0/BL.dll
 /Users/valentino/Desktop/Group-2/BL/obj/Debug/netstandard2.0/BL.pdb
+/Users/valentino/Desktop/Group-2/BL/bin/Debug/netstandard2.0/ConnectionString.txt
